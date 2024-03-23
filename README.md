@@ -15,4 +15,4 @@
  <img align="center" alt="react_native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-Apaixoado por Tecnologia, programador Dev Jr. em processo de aprendizagem
+Apaixoado por Tecnologias, programador Dev Jr. em processo de aprendizagem
