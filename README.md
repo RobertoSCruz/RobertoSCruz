@@ -31,7 +31,7 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>More Info 🗡️</b>
       </samp>
   </summary>
   
