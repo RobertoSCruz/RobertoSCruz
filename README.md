@@ -18,18 +18,15 @@
 
 </div>
       
-<br>
-<br>
       
 <div align="center">
   <img src="https://images.steamusercontent.com/ugc/1747933010806785033/0B214B7F2F66751496E4AB765968351F459C7286/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </div>
+<br>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FFA348FF&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
 </div>
-
-<br>
 
 <details align="center">  
   <summary>
@@ -72,10 +69,10 @@
 
 <div align="center" style="display: inline_block"><br>
   
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/python/python-original.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" />
+  <img width="40" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
+  <img width="40" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
+  <img width="40" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" />
   
 </div>
 
