@@ -3,9 +3,9 @@
 <div align="center">
   <samp>
     <b>
-      !!!Saudações!!! 
+      !!!Hello There!!! 
       <br>
-      Eu sou Roberto S. Cruz
+      I Am Roberto S. Cruz
     </b>
   </samp>
   </div>
