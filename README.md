@@ -4,7 +4,7 @@
   <samp>
     <b>
       !!!Hello There!!! 
-      <br><br><br><br><br>
+      <br>
       I Am Roberto S. Cruz
   </b>
   </samp>
@@ -14,6 +14,7 @@
       
       
 <div align="center">
+  <br>
   <img src="https://images.steamusercontent.com/ugc/1747933010806785033/0B214B7F2F66751496E4AB765968351F459C7286/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </div>
 <br>
