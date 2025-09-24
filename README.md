@@ -54,12 +54,7 @@
   />
   <br>
   <br>
-  <img
-    height=154
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=RobertoSCruz&theme=apprentice&card_width=885&hide_border=true"
-  />
+  
   </div>
 
 <div align="center" style="display: inline_block"><br>
